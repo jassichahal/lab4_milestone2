@@ -140,7 +140,7 @@ public class MainActivity extends AppCompatActivity {
             }
 
             TextView addressTextView = (TextView) findViewById(R.id.address);
-            addressTextView.setText("Address: " + address);
+            addressTextView.setText(address); //string
         } catch (IOException e) {
             e.printStackTrace();
         }
