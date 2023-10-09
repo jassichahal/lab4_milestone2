@@ -2,4 +2,12 @@
     <string name="app_name">lab4_milestone2</string>
     <string name="hello_world">Hello World!!</string>
     <string name="hello_worldd" />
+    <string name="location_101">Location 101</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude" />
+    <string name="longitude1">Longitude</string>
+    <string name="longitude2">Longitude:</string>
+    <string name="accuracy">Accuracy:</string>
+    <string name="altitude">Altitude:</string>
+    <string name="address">Address:</string>
 </resources>
